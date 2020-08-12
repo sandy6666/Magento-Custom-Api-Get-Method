@@ -4,7 +4,7 @@
     <route url="/V2/customapi" method="GET">
         <service class="Sandesh\CustomApi\Api\CustomApiRepositoryInterface" method="getData"/>
         <resources>
-            <resource ref="anonymous"/>
+            <resource ref="Sandesh_CustomApi::custom"/>
         </resources>
     </route>
 </routes>
