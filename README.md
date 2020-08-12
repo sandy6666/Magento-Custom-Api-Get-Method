@@ -10,3 +10,9 @@ bin/magento se:up
 and give permissions
 
 chmod -R 777 var/ pub/ generated/
+
+Response :
+
+{
+    "sample_data": "Hello World"
+}
