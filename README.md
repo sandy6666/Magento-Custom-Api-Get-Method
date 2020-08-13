@@ -1,4 +1,4 @@
-# Magento-Custom-Api-Get-Method
+# Magento2-Custom-Api-Get-Method
 This Repository contains all the necessary files needed to be created for a Custom API which is a get Method API
 
 Add the code in `app/code/Sandesh` directory
